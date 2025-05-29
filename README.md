@@ -23,4 +23,4 @@ From January to May of 2024, a university-based project conducted by Team Deskac
 
 # Media and Content
 - Watch the original [video presentation](https://youtu.be/1dtRnUoHcjs?feature=shared) of the project idea.
-- Watch the [vlog](https://youtu.be/1dtRnUoHcjs?feature=shared) in relation to the project development.
+- Watch the [vlog](https://youtu.be/lGv-NvLEX-M?feature=shared) in relation to the project development.
