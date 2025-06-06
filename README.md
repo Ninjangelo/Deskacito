@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="videos_and_gifs/deskacito_banner.jpg" alt="deskacito_intro_banner">
+</p>
 <ins>Project Name:</ins>
 Deskacito - Smart Desk Project for BCU Innovation Fest 2024
 <br/><br/>
