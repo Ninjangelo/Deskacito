@@ -1,13 +1,15 @@
 <p align="center">
   <img src="videos_and_gifs/deskacito_banner.jpg" alt="deskacito_intro_banner">
 </p>
-<ins>Project Name:</ins>
+
+### <ins>Project Name:</ins>
 Deskacito - Smart Desk Project for BCU Innovation Fest 2024
-<br/><br/>
-<ins>Project Duration:</ins>
+
+### <ins>Project Duration:</ins>
 Jan 2024 - May 2024
-<br/><br/>
-<ins>Members:</ins>
+
+
+### <ins>Members:</ins>
 - Haris Ahmed Dadd
   - LinkedIn: https://www.linkedin.com/in/haris-ahmed-dadd/
 - Ethan Dearn
@@ -20,9 +22,14 @@ Jan 2024 - May 2024
   - LinkedIn: www.linkedin.com/in/angelo-luis-lagdameo
 
 # What is this Project?
-From January to May of 2024, a university-based project conducted by Team Deskacito consisting of members Haris Ahmed Dadd, Toby Skitt, Alex Anglin, Ethan Dearn and Angelo Luis Lagdameo have devised the idea of creating a **"Smart Desk"** for their project, which ultimately aimed to improve and compete with the existing products within the desk product and smart furniture market by prioritising the need to sustain the organising and security aspect of the environment where it is being currently utilised in.
+Deskacito is education-based project that has been developed as part of the Innovation Project Module of the BSc Computer Science course at Birmingham City University. In the span of January to May of 2024, a team of four first-year undergraduate students at the time devised the idea of developing on the current design and functions of the modern day desk by creating a "Smart Desk" that would help benefit the current environment of a work office in order to enhance the levels of productivity being within it, as well as attempting to eliminate the possibility of work theft from occurring through the utilization and implementation of a mixture of hardware and software for certain features.
 
-<img src="videos_and_gifs/deskacito_preview.gif" width="800">
+<p align="center">
+  <img src="videos_and_gifs/deskacito_preview.gif" width="800">
+</p>
+
+## Features
+(Pending Description)
 
 # Media and Content
 - Watch the original [video presentation](https://youtu.be/1dtRnUoHcjs?feature=shared) of the project idea.
