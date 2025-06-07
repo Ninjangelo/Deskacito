@@ -2,24 +2,43 @@
   <img src="readme_content/deskacito_banner.jpg" alt="deskacito_intro_banner">
 </p>
 
-### <ins>Project Name:</ins>
+### <ins>Project Name</ins>
 Deskacito - Smart Desk Project for BCU Innovation Fest 2024
 
-### <ins>Project Duration:</ins>
+### <ins>Project Duration</ins>
 Jan 2024 - May 2024
+
+### <ins>Hardware and Software</ins>
+  - <ins>Hardware:</ins>
+    - Breadboard (2×)
+    - Arduino UNO R3
+    - NFC Reader
+    - NFC Card (4×)
+    - NFC Tag (2×)
+    - Small Servo Motors (2×)
+    - LCD
+    - LED (2×)
+    - Buzzer
+    - HC-SR04 Ultrasonic Sensor
+    - Raspberry Pi 4 Model B
+    - Raspberry Pi Camera Module 3
+  - <ins>Software:</ins>
+    - [Arduino IDE](https://www.arduino.cc/en/software/#ide)
+    - [Visual Studio Code](https://code.visualstudio.com/download)
+    - [RealVNC Viewer](https://www.realvnc.com/en/connect/download/?lai_vid=53nXRNBMPFN2&lai_sr=15-19&lai_sl=l)
 
 
 ### <ins>Members:</ins>
 - Haris Ahmed Dadd
-  - LinkedIn: https://www.linkedin.com/in/haris-ahmed-dadd/
+  - [LinkedIn](https://www.linkedin.com/in/haris-ahmed-dadd/)
 - Ethan Dearn
-  - LinkedIn: https://www.linkedin.com/in/ethan-dearn-682680273/
+  - [LinkedIn](https://www.linkedin.com/in/ethan-dearn-682680273/)
 - Toby Skitt
-  - LinkedIn: https://www.linkedin.com/in/toby-skitt/
+  - [LinkedIn](https://www.linkedin.com/in/toby-skitt/)
 - Alex Anglin
-  - LinkedIn: https://www.linkedin.com/in/alex-anglin-4052102a7/
+  - [LinkedIn](https://www.linkedin.com/in/alex-anglin-4052102a7/)
 - Angelo Luis Lagdameo
-  - LinkedIn: www.linkedin.com/in/angelo-luis-lagdameo
+  - [LinkedIn](www.linkedin.com/in/angelo-luis-lagdameo)
 
 # What is this Project?
 Deskacito is education-based project that has been developed as part of the Innovation Project Module of the BSc Computer Science course at Birmingham City University. In the span of January to May of 2024, a team consisting of four first-year undergraduate students at the time devised the idea of developing on the current design and functions of the modern day desk by creating a "Smart Desk" that would help benefit the current environment of a work office in order to enhance the levels of productivity being within it, as well as attempting to eliminate the possibility of work theft from occurring through the utilization and implementation of a mixture of hardware and software for certain features.
@@ -29,7 +48,19 @@ Deskacito is education-based project that has been developed as part of the Inno
 </p>
 
 ## Features
-(Pending Description)
+1. <ins>NFC-Based Login</ins>
+<br/>Imagining from a perspective where Deskacito is a mass-producible product, every copy of Deskacito will have its own pre-programmed NFC card that comes with it that will only be able to enable the owner of the desk to acces it with that specific card. By scanning this card on the appropriate NFC reader area, Deskacito will be in a state where the user is privileged to store or access the contents of each compartment of the desk. Scanning the NFC card again will make the desk revert back to the state of requiring the correct NFC card to access it. Scanning a different NFC card or tag will deny access to the privileged state.
+
+3. <ins>Proximity Sensor</ins>
+<br/>Even before scanning your unique NFC card, Deskacito will need to detect the user is sitting at the desk, which is detected through a HC-SR04 Ultrasonic Sensor propped underneath the tabletop part of the MVP. When an object is detected to be at a particular distance from the sensor, then and only then does Deskacito await for an NFC card to be scanned.
+
+4. <ins>Object Storing Classifier</ins>
+<br/>(Pending)
+<br/>
+
+5. <ins>NFC-Based Object Access</ins>
+<br/>(Pending)
+<br/>
 
 # Media and Content
 - Watch the original [video presentation](https://youtu.be/1dtRnUoHcjs?feature=shared) of the project idea.
