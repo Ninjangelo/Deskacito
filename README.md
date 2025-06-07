@@ -50,17 +50,32 @@ Deskacito is education-based project that has been developed as part of the Inno
 ## Features
 1. <ins>NFC-Based Login</ins>
 <br/>Imagining from a perspective where Deskacito is a mass-producible product, every copy of Deskacito will have its own pre-programmed NFC card that comes with it that will only be able to enable the owner of the desk to acces it with that specific card. By scanning this card on the appropriate NFC reader area, Deskacito will be in a state where the user is privileged to store or access the contents of each compartment of the desk. Scanning the NFC card again will make the desk revert back to the state of requiring the correct NFC card to access it. Scanning a different NFC card or tag will deny access to the privileged state.
+<p align="center">
+  <img src="readme_content/nfc_login.gif" width="600">
+</p>
+<br/>
+<p align="center">
+  <img src="readme_content/logged_out_state.gif" width="200">
+  <img src="readme_content/logged_in_state.gif" width="200">
+</p>
 
 3. <ins>Proximity Sensor</ins>
-<br/>Even before scanning your unique NFC card, Deskacito will need to detect the user is sitting at the desk, which is detected through a HC-SR04 Ultrasonic Sensor propped underneath the tabletop part of the MVP. When an object is detected to be at a particular distance from the sensor, then and only then does Deskacito await for an NFC card to be scanned.
+<br/>Even before scanning your unique NFC card, Deskacito will need to detect the user is sitting at the desk, which is detected through a HC-SR04 Ultrasonic Sensor propped underneath the tabletop part of the MVP. When an object is detected to be at a particular distance from the sensor, then and only then does Deskacito awaits for an NFC card to be scanned.
+<p align="center">
+  <img src="readme_content/proximity_sensor.gif" width="600">
+</p>
 
-4. <ins>Object Storing Classifier</ins>
-<br/>(Pending)
-<br/>
+5. <ins>Object Identification and Storing</ins>
+<br/>As part of Deskacito's main aim to revolutionize smart furniture, in order to maintain an organised workspace we utilise Raspberry Pi 4 Model B with a Raspberry Pi Camera Module 3 connected to run an ongoing, live video feed to identify certain objects. Using the existing [COCO Library](https://cocodataset.org/#home) as the dataset, we carry out object identification by defining within th Python code the common stationary objects you would commonly find in an office and common personal belongings such as your watch or house keys to be identified in order to trigger an individual compartment specifically for the category of the object.
+<p align="center">
+  <img src="readme_content/object_identification.gif" width="600">
+</p>
 
-5. <ins>NFC-Based Object Access</ins>
-<br/>(Pending)
-<br/>
+7. <ins>NFC-Based Object Access</ins>
+<br/>Within the privileged state of granting access to Deskacito, you will be able to access the individual compartments using separate NFC tags that open either the left or right compartment for the purpose of wanting to retrieve your stored belongings or stationary.
+<p align="center">
+  <img src="readme_content/object_access.gif" width="600">
+</p>
 
 # Media and Content
 - Watch the original [video presentation](https://youtu.be/1dtRnUoHcjs?feature=shared) of the project idea.
