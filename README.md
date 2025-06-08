@@ -82,5 +82,13 @@ Deskacito is education-based project that has been developed as part of the Inno
 <br/>
 
 # Media and Content
-- Watch the original [video presentation](https://youtu.be/1dtRnUoHcjs?feature=shared) of the project idea.
-- Watch the [vlog](https://youtu.be/lGv-NvLEX-M?feature=shared) in relation to the project development.
+### <ins>Original Video Presentation of the Project Idea</ins>
+<a href="https://www.youtube.com/watch?v=1dtRnUoHcjs" target="_blank">
+  <img src="https://img.youtube.com/vi/1dtRnUoHcjs/maxresdefault.jpg" alt="Video" width="400">
+</a>
+<br/>
+
+### <ins>Vlog involving the Project's Development Journey</ins>
+<a href="https://www.youtube.com/watch?v=lGv-NvLEX-M" target="_blank">
+  <img src="https://img.youtube.com/vi/lGv-NvLEX-M/maxresdefault.jpg" alt="Video" width="400">
+</a>
