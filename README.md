@@ -41,7 +41,7 @@ Jan 2024 - May 2024
   - [LinkedIn](www.linkedin.com/in/angelo-luis-lagdameo)
 
 # What is this Project?
-Deskacito is education-based project that has been developed as part of the Innovation Project Module of the BSc Computer Science course at Birmingham City University. In the span of January to May of 2024, a team consisting of four first-year undergraduate students at the time devised the idea of developing on the current design and functions of the modern day desk by creating a "Smart Desk" that would help benefit the current environment of a work office in order to enhance the levels of productivity being within it, as well as attempting to eliminate the possibility of work theft from occurring through the utilization and implementation of a mixture of hardware and software for certain features.
+Deskacito is education-based project that has been developed as part of the Innovation Project Module of the BSc Computer Science course at Birmingham City University. In the span of January to May of 2024, a team of four devised the idea of developing on the current design and functions of the modern day desk by creating a "Smart Desk" that would help benefit the current environment of a work office in order to enhance the levels of productivity being within it, as well as attempting to eliminate the possibility of work theft from occurring through the utilisation and implementation of a mixture of hardware and software for certain features.
 
 <p align="center">
   <img src="readme_content/deskacito_preview.gif" width="800">
@@ -87,8 +87,3 @@ Deskacito is education-based project that has been developed as part of the Inno
   <img src="https://img.youtube.com/vi/1dtRnUoHcjs/maxresdefault.jpg" alt="Video" width="400">
 </a>
 <br/>
-
-### <ins>Vlog involving the Project's Development Journey</ins>
-<a href="https://www.youtube.com/watch?v=lGv-NvLEX-M" target="_blank">
-  <img src="https://img.youtube.com/vi/lGv-NvLEX-M/maxresdefault.jpg" alt="Video" width="400">
-</a>
