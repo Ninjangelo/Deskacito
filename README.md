@@ -58,24 +58,28 @@ Deskacito is education-based project that has been developed as part of the Inno
   <img src="readme_content/logged_out_state.jpg" width="300">
   <img src="readme_content/logged_in_state.jpg" width="300">
 </p>
+<br/>
 
 2. <ins>Proximity Sensor</ins>
 <br/>Even before scanning your unique NFC card, Deskacito will need to detect the user is sitting at the desk, which is detected through a HC-SR04 Ultrasonic Sensor propped underneath the tabletop part of the MVP. When an object is detected to be at a particular distance from the sensor, then and only then does Deskacito awaits for an NFC card to be scanned.
 <p align="center">
   <img src="readme_content/proximity_sensor.gif" width="600">
 </p>
+<br/>
 
 3. <ins>Object Identification and Storing</ins>
 <br/>As part of Deskacito's main aim to revolutionize smart furniture, in order to maintain an organised workspace we utilise Raspberry Pi 4 Model B with a Raspberry Pi Camera Module 3 connected to run an ongoing, live video feed to identify certain objects. Using the existing [COCO Library](https://cocodataset.org/#home) as the dataset, we carry out object identification by defining within th Python code the common stationary objects you would commonly find in an office and common personal belongings such as your watch or house keys to be identified in order to trigger an individual compartment specifically for the category of the object.
 <p align="center">
   <img src="readme_content/object_identification.gif" width="600">
 </p>
+<br/>
 
 4. <ins>NFC-Based Object Access</ins>
 <br/>Within the privileged state of granting access to Deskacito, you will be able to access the individual compartments using separate NFC tags that open either the left or right compartment for the purpose of wanting to retrieve your stored belongings or stationary.
 <p align="center">
   <img src="readme_content/object_access.gif" width="600">
 </p>
+<br/>
 
 # Media and Content
 - Watch the original [video presentation](https://youtu.be/1dtRnUoHcjs?feature=shared) of the project idea.
