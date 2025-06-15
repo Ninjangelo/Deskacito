@@ -50,7 +50,7 @@ Deskacito is education-based project that has been developed as part of the Inno
 
 ## Features
 1. <ins>NFC-Based Login</ins>
-<br/>Imagining from a perspective where Deskacito is a mass-producible product, every copy of Deskacito will have its own pre-programmed NFC card that comes with it that will only be able to enable the owner of the desk to acces it with that specific card. By scanning this card on the appropriate NFC reader area, Deskacito will be in a state where the user is privileged to store or access the contents of each compartment of the desk. Scanning the NFC card again will make the desk revert back to the state of requiring the correct NFC card to access it. Scanning a different NFC card or tag will deny access to the privileged state.
+<br/>Imagining from a perspective where Deskacito is a mass-producible product, every copy of Deskacito will have its own pre-programmed NFC card that comes with it that will only be able to enable the owner of the desk to access it with that specific card. By scanning this card on the appropriate NFC reader area, Deskacito will be in a state where the user is privileged to store or access the contents of each compartment of the desk. Scanning the NFC card again will make the desk revert back to the state of requiring the correct NFC card to access it. Scanning a different NFC card or tag will deny access to the privileged state.
 <p align="center">
   <img src="readme_content/nfc_login.gif" width="600">
 </p>
