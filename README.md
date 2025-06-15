@@ -26,6 +26,7 @@ Jan 2024 - May 2024
     - [Arduino IDE](https://www.arduino.cc/en/software/#ide)
     - [Visual Studio Code](https://code.visualstudio.com/download)
     - [RealVNC Viewer](https://www.realvnc.com/en/connect/download/?lai_vid=53nXRNBMPFN2&lai_sr=15-19&lai_sl=l)
+    - Microsoft 3D Builder
 
 
 ### <ins>Members:</ins>
